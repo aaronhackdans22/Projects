@@ -1,0 +1,9 @@
+details{
+    border: 2px solid blue;
+}
+summary{
+    border-bottom:2px solid blue ;
+}
+aside{
+    float: right;
+}

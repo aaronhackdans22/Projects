@@ -1,0 +1,24 @@
+
+nav{
+    background-color:white ;
+    height: 3rem;
+position: static;
+}
+
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-flow: row wrap;
+padding: 0;
+margin: 0;
+font-family: 'Oxygen Mono', monospace;
+gap: 5rem;
+justify-content: center;
+}
+
+ button {
+    display: ;
+   justify-self: self-end;
+   background-color: yellow;
+}

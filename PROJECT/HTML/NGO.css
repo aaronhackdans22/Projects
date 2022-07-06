@@ -1,0 +1,31 @@
+header{
+    background-color:rgba(76, 209, 55,1.0) ;
+height: 5rem;
+
+}
+.list{
+    list-style-type: none;
+    float:right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 3rem;
+    margin-top: 2rem;
+    margin-right: 3rem;
+
+}
+h2{
+    margin-left: 2rem;
+    margin-top: 4rem;
+}
+section{
+    text-align: justify;
+    font-size: 20px;
+    background-color: rgb(10, 78, 67 ), opacity:0.8;
+    margin-left: 1rem;   
+}
+
+.tee{
+    
+  float: left;
+  
+}
+

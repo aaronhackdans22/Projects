@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+ul {
+    height: 5rem;
+    width: 100vw;
+    background-color: rgb(116, 27, 27);
+}
+
+ul li {
+   font-size: 2rem; 
+   color: orangered;
+   list-style-type: none;
+  
+   width: 30px;
+ margin-top: 10px;
+text-decoration:none ;
+}
+

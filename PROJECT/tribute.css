@@ -1,0 +1,53 @@
+body{
+ background-color: rgb(204, 243, 137);
+ margin-left: 25rem;
+ margin-right: 25rem;
+}
+
+.first{
+    background-color: white;
+}
+
+img{
+    margin-left: 3rem;
+    margin-right: 6rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.second{
+    margin-left: 6rem;
+    margin-top: -2rem;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    font-size: 2rem;
+}
+  
+
+ul{
+    margin-left:10rem ;
+    
+    font-size: 1.5rem;
+}
+
+li{
+    margin-top: 3rem;
+    line-height: 1.5rem;
+}
+
+
+.third{
+    margin-left: 10rem;
+    font-size: 1.5rem;
+}
+
+
